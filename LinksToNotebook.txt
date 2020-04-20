@@ -1,0 +1,9 @@
+Colab Folder (recommended)
+https://drive.google.com/drive/u/3/folders/1yeexTbmNkmtMEwbb6PRtXYta4cqQt2p7
+-data folder
+-CarAccidentsUK.ipynb (main notebook)
+-CarAccidentsFunctionsUK.ipynb (helper functions notebook)
+
+GitHub 
+https://github.com/developdaniels/CA683_CarAccidentsSeverity
+notebooks and zipped dataset due github limitations
